@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Chat for students",
+    "description": "A chatbot that does not have a specific task or personality - for students",
+    "image_url": "images/original/1.webp"
+  },
+  {
+    "name": "Simply explained",
+    "description": "Gives you customized explanations",
+    "image_url": "images/original/2.webp"
+  },
+  {
+    "name": "Math Guide",
+    "description": "AI Math Learning Assistant",
+    "image_url": "images/original/3.webp"
+  },
+  {
+    "name": "The Debater",
+    "description": "Argues for or against a claim",
+    "image_url": "images/original/4.webp"
+  },
+  {
+    "name": "The letter writer",
+    "description": "Write and respond to letters and emails",
+    "image_url": "images/original/5.webp"
+  },
+  {
+    "name": "Character builder",
+    "description": "Build your own bot",
+    "image_url": "images/original/6.webp"
+  },
+  {
+    "name": "Sokrates",
+    "description": "Guides through questions",
+    "image_url": "images/original/7.webp"
+  },
+  {
+    "name": "Teacher-chatbot for students",
+    "description": "Helps you with your questions",
+    "image_url": "images/original/8.webp"
+  },
+  {
+    "name": "Guess who",
+    "description": "Create a bot and play 'Guess who'",
+    "image_url": "images/original/9.webp"
+  },
+  {
+    "name": "German Learning Assistant",
+    "description": "Practice German",
+    "image_url": "images/original/10.webp"
+  },
+  {
+    "name": "French Learning Assistant",
+    "description": "Practice French",
+    "image_url": "images/original/11.webp"
+  },
+  {
+    "name": "Spanish Learning Assistant",
+    "description": "Practice Spanish",
+    "image_url": "images/original/12.webp"
+  },
+  {
+    "name": "Chat for teachers",
+    "description": "A chatbot that doesn't have a specific task or personality - for teachers",
+    "image_url": "images/original/13.webp"
+  },
+  {
+    "name": "Common misconceptions",
+    "description": "Get a list of common misconceptions",
+    "image_url": "images/original/14.webp"
+  },
+  {
+    "name": "Discussion starter",
+    "description": "Inspires critical thinking and conversations in the classroom",
+    "image_url": "images/original/15.webp"
+  },
+  {
+    "name": "Make it relevant!",
+    "description": "Generate ideas to make the teaching relevant",
+    "image_url": "images/original/16.webp"
+  },
+  {
+    "name": "Improve instructions",
+    "description": "Make instructions easier to understand for students",
+    "image_url": "images/original/17.webp"
+  },
+  {
+    "name": "Task Manager",
+    "description": "Breaks down tasks into manageable steps",
+    "image_url": "images/original/18.webp"
+  },
+  {
+    "name": "Teacher Assistance",
+    "description": "Creates teaching suggestions for planning lessons",
+    "image_url": "images/original/19.webp"
+  },
+  {
+    "name": "Teacher help",
+    "description": "Creates explanations, analogies, and examples",
+    "image_url": "images/original/20.webp"
+  }
+]
